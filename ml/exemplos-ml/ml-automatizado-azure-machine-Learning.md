@@ -6,7 +6,7 @@ Azure Machine Learning é uma plataforma em nuvem para Machine Learning.
 </p>
 Precisamos fornecer os dados e o tipo de modelo supervisionado desejado e deixar o Azure Machine Learning encontrar o melhor modelo.
 
-## Criar espaço de trabalho do Azure Machine Learning
+## 💻 Criar espaço de trabalho do Azure Machine Learning
 
 ````
 Para utilizar os serviços de IA do Azure é necessário criar um Workspace.
@@ -16,7 +16,7 @@ Para utilizar os serviços de IA do Azure é necessário criar um Workspace.
 
 - Acesse o [portal do Azure](https://portal.azure.com/).
 
-![alt text](criar-recurso.png)
+![alt text](../exemplos-ml/img-ml/criar-recurso.png)
 
 - Pesquise por Machine Learning
 - Clique em Create - Azure Machinhe Learning
@@ -48,7 +48,7 @@ Assinatura : sua assinatura do Azure .
 
 - Selecione Launch studio (ou abra uma nova aba do navegador e navegue até [https://ml.azure.com](https://ml.azure.com) e entre no Azure Machine Learning Studio usando sua conta da Microsoft). Feche todas as mensagens que forem exibidas.
 
-# Usando aprendizado de máquina automatizado para treinar um modelo
+#  💻 Usando aprendizado de máquina automatizado para treinar um modelo
 
 Já no Azure Machine Learning Studio, clique em ML automatizado (em Criação)
 - Crie um novo trabalho de ML automatizado com as seguintes configurações, utilize o **avançar** conforme necessário
@@ -219,7 +219,7 @@ Na guia Visão geral do trabalho de machine learning automatizado, observe o res
 
 * Após finalizar não esqueça de excluir o grupo de recursos que você criou ao iniciar o projeto
 
-### Referências
+### 📝 Referências
 
 - [Explore o Machine Learning automatizado no Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 - [Explorar o Machine Learning Automatizado no Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals.pt-br/Instructions/Labs/01-machine-learning.html)

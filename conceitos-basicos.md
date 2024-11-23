@@ -29,6 +29,6 @@ Tendência: Inteligência Artificial seja capaz de conversar e interagir cada ve
     * Reconhecimento facial, reconhecimento em fotos
     * Exemplo: sistema de segurança de um banco, de uma grande empresa. * Reconhecer os colaboradores pela imagem
 
-### Referências
+### 📝 Referências
 
 - [AI-900](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)

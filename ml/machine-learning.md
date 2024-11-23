@@ -40,6 +40,6 @@ Necessário criar uma conta. Pode criar uma [conta gratuita de estudante](https:
 | Serviços de IA do Azure |	Conjunto de serviços que abrange visão, fala, linguagem, decisão e IA generativa |
 | Pesquisa Cognitiva do Azure |	Extração, enriquecimento e indexação de dados para pesquisa inteligente e mineração de conhecimento |
 
-### Referências
+### 📝 Referências
 
 - [AI-900](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
