@@ -1,4 +1,4 @@
-#🤖 Inteligência Artificial - Azure AI Fundamentals
+# 🤖 Inteligência Artificial - Azure AI Fundamentals
 
 Inteligência Artificail permite criar software que imita comportamentos e funcionalidades humanas.
 
